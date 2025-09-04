@@ -42,11 +42,10 @@ https://jsonplaceholder.typicode.com
 
 
 ## Screenshots
- 
-![App Screenshot](https://raw.githubusercontent.com/BalaMuruganSoftsuave/ios_Post_app/refs/heads/main/ScreenShots/Sim…
- 
-![App Screenshot](https://raw.githubusercontent.com/BalaMuruganSoftsuave/ios_Post_app/refs/heads/main/ScreenShots/Sim…
- 
-![App Screenshot](https://raw.githubusercontent.com/BalaMuruganSoftsuave/ios_Post_app/refs/heads/main/ScreenShots/IMG…
- 
- 
+
+![App Screenshot](https://raw.githubusercontent.com/BalaMuruganSoftsuave/ios_Post_app/refs/heads/main/ScreenShots/Simulator%20Screenshot%20-%20iPhone%2016%20-%202025-09.png)
+
+![App Screenshot](https://raw.githubusercontent.com/BalaMuruganSoftsuave/ios_Post_app/refs/heads/main/ScreenShots/Simulator%20Screenshot%20-%20iPhone%2016.png)
+
+![App Screenshot](https://raw.githubusercontent.com/BalaMuruganSoftsuave/ios_Post_app/refs/heads/main/ScreenShots/IMG_0438.PNG)
+
