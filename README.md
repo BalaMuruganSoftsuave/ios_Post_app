@@ -42,6 +42,11 @@ https://jsonplaceholder.typicode.com
 
 
 ## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
+ 
+![App Screenshot](https://raw.githubusercontent.com/BalaMuruganSoftsuave/ios_Post_app/refs/heads/main/ScreenShots/Sim…
+ 
+![App Screenshot](https://raw.githubusercontent.com/BalaMuruganSoftsuave/ios_Post_app/refs/heads/main/ScreenShots/Sim…
+ 
+![App Screenshot](https://raw.githubusercontent.com/BalaMuruganSoftsuave/ios_Post_app/refs/heads/main/ScreenShots/IMG…
+ 
+ 
